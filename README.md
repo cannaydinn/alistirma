@@ -1,0 +1,2 @@
+# alistirma
+ Bölüm sonu alıştırması
